@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan AI",
+  "description": "An AI-powered recycling assistant that identifies waste items from images and provides disposal advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
